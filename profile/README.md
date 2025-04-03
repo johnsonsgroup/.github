@@ -1,6 +1,6 @@
-![Johnsons Technologies](https://github.com/user-attachments/assets/b7ec8858-5ea8-477c-b5e0-6a288d7070f9)
+![Johnsons Tech](https://github.com/user-attachments/assets/05631489-9c15-47b8-8ca8-03ab80637aa5)
 
-# Technologies at Johnsons Group
+# Tech at Johnsons Group
 
 Explore our tech-driven initiatives at [johnsons.tech](https://johnsons.tech).
 
