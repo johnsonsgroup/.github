@@ -1,4 +1,4 @@
-![Johnsons Technologies](https://github.com/user-attachments/assets/64320090-5f52-4b83-9032-32298341488e)
+![Johnsons Technologies](https://github.com/user-attachments/assets/28f0b488-390f-40e9-987d-1046cad9658c)
 
 # Johnsons Technologies
 
