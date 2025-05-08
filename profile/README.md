@@ -1,4 +1,4 @@
-![Johnsons Technologies](https://github.com/user-attachments/assets/28f0b488-390f-40e9-987d-1046cad9658c)
+![Johnsons Poster](https://github.com/user-attachments/assets/c010af28-5742-433b-8809-96daeb684763)
 
 # Johnsons Technologies
 
