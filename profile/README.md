@@ -1,5 +1,3 @@
-![Johnsons Poster](https://github.com/user-attachments/assets/c010af28-5742-433b-8809-96daeb684763)
-
 # Johnsons Technologies
 
 Explore our tech-driven initiatives at [johnsons.tech](https://johnsons.tech).
