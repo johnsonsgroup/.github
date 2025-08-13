@@ -1,24 +1,16 @@
-# 🏗️ Johnsons Technologies  
+# Johnsons Technologies
 
-**🚀 Innovating Construction Through Technology**  
+We combine deep industry expertise with technology-driven solutions to build foundations that shape the future.
 
----
+## Our Mission
+We integrate advanced technologies across every stage of the project lifecycle. Our commitment is clear: **to deliver projects that are smarter, faster, and more efficient — without compromising on safety or quality.**
 
-## 📌 Our Mission  
-We’re reimagining construction by seamlessly integrating cutting-edge technology into every stage of the project lifecycle. Our aim is simple: **deliver smarter, faster, and more efficient projects** without compromising quality.  
+## Our Strategic Approach
+- **Intelligent Tools** – Deploy state-of-the-art hardware and software to optimise on-site operations.  
+- **Streamlined Workflows** – Automate routine tasks and enable real-time collaboration to improve efficiency.  
+- **Bespoke Solutions** – Design and implement tailored technology integrations to address specific project requirements.  
+- **Sustainable Innovation** – Harness technology to reduce waste, improve energy efficiency, and support environmentally responsible building practices.  
 
----
-
-## 🧩 Our Strategy  
-- **🔧 Smart Tools** – Harness advanced hardware and software to streamline on-site operations.  
-- **⚡ Optimised Workflows** – Automate repetitive processes and enable real-time collaboration.  
-- **🛠️ Bespoke Solutions** – Develop tailored technology integrations to suit unique project requirements.  
-- **🌱 Sustainable Innovation** – Use technology to minimise waste, improve energy efficiency, and build for the future.  
-
-By combining construction expertise with technology-led solutions, we’re building foundations that shape the future.
-
----
-
-## 🌐 Explore More  
-📎 **Website:** [johnsons.tech](https://johnsons.tech)  
-📧 **Contact:** [info@johnsonsgroup.co.uk](mailto:info@johnsonsgroup.co.uk) 
+## Connect With Us
+**Website:** [johnsonsgroup.co.uk/technologies/](https://www.johnsonsgroup.co.uk/technologies/)  
+**Email:** [technologies@johnsonsgroup.co.uk](mailto:technologies@johnsonsgroup.co.uk)
